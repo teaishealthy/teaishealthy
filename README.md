@@ -1,9 +1,6 @@
-
-
-
 [![Contact](https://img.shields.io/badge/Contact-303030?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:teaishealthy@protonmail.com)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/teaishealthy/teaishealthy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teaishealthy/teaishealthy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<br>
 
 ![Languages](https://img.shields.io/badge/Languages-202020?style=for-the-badge)
 [![Python][python-shield]][python-url]
