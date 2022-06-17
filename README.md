@@ -25,6 +25,7 @@
 [![Git][git-shield]][git-url]
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
+[![Caddy](https://img.shields.io/badge/Caddy-000000?style=for-the-badge&logoColor=white)](https://caddyserver.com/)
 
 
 
